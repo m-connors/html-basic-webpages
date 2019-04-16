@@ -1,5 +1,7 @@
 # Basic Web Pages Homework
 
+Meg_Connors
+
 After you set up your coding environment by following James' Introduction, follow along with his Basic Web Pages activity.
 
 Yet, before you start this activity,
